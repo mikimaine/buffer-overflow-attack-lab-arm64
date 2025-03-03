@@ -1,6 +1,6 @@
 # SeedLab-2 ARM Version Solution
 
-This repository contains the solution for the SeedLab-2 ARM version. This project is for educational purposes only.
+This repository contains the solution for the [SeedLab-2 ARM](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server_ARM64/) version. 
 
 ## Prerequisites
 
